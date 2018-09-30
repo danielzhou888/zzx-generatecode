@@ -26,6 +26,8 @@
 ![Alt text](https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/_[{[6ZW{609NMXRSTGD74@V.png)
 <img src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/_[{[6ZW{609NMXRSTGD74@V.png" style="width:400px;height:200px;"/>
 
+<img src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/_[{[6ZW{609NMXRSTGD74@V.png" width="150" height="150" alt="图片"/>
+
  **输入表名**（支持多表，表之间使用英文逗号进行隔开）  
  &emsp;&emsp;如：sc_user,sc_customer,sc_appointment  
 **点击下载：**    生成code.zip  
