@@ -1,4 +1,4 @@
-<center>代码生成工具使用说明</center>
+代码生成工具使用说明
 ====
 
 @(zzx)[代码生成工具]
@@ -24,7 +24,7 @@
 &emsp;&emsp;测试环境：http://10.100.1.145:8088/scmd-generatetools/  
 &emsp;&emsp;线上环境：https://www.carecnn.com/scmd-generatetools/（暂不公开）  
 ![Alt text](https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/_[{[6ZW{609NMXRSTGD74@V.png)
-
+<img src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/_[{[6ZW{609NMXRSTGD74@V.png" style="width:400px;height:200px;"/>
 
  **输入表名**（支持多表，表之间使用英文逗号进行隔开）  
  &emsp;&emsp;如：sc_user,sc_customer,sc_appointment  
