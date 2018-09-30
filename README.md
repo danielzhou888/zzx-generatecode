@@ -17,10 +17,9 @@
 &emsp;&emsp;欢迎大家批评指教。
 
 ### 1．	curl代码生成
-**访问:**
-&emsp;&emsp;测试环境：http://10.100.1.145:8088/scmd-generatetools/
-
-&emsp;&emsp;线上环境：https://www.carecnn.com/scmd-generatetools/（暂不公开）
+**访问:**  
+&emsp;&emsp;测试环境：http://10.100.1.145:8088/scmd-generatetools/  
+&emsp;&emsp;线上环境：https://www.carecnn.com/scmd-generatetools/（暂不公开）  
 ![Alt text](./_[{[6ZW{609NMXRSTGD74@V.png)
 
 
