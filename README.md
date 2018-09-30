@@ -1,4 +1,4 @@
-<h2><center>代码生成工具使用说明</center></h2>
+<center>代码生成工具使用说明</center>
 @(zzx)[代码生成工具]
 
 
