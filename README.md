@@ -23,92 +23,76 @@
 **访问:**  
 &emsp;&emsp;测试环境：http://10.100.1.145:8088/scmd-generatetools/  
 &emsp;&emsp;线上环境：https://www.carecnn.com/scmd-generatetools/（暂不公开）  
-![Alt text](https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/_[{[6ZW{609NMXRSTGD74@V.png)
-
 <div align=center><img width="800px;" src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/_[{[6ZW{609NMXRSTGD74@V.png"/></div>
 
  **输入表名**（支持多表，表之间使用英文逗号进行隔开）  
  &emsp;&emsp;如：sc_user,sc_customer,sc_appointment  
 **点击下载：**    生成code.zip  
-![Alt text](https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/9YVJ$ROQ9K2G}V8Y`_NHV.png)
 <div align=center><img width="800px;"  src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/9YVJ$ROQ9K2G}V8Y`_NHV.png"/></div>
 
 **目录结构：**   
-![image](https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/@SSHSAD$$VOKCAK9{}7LJA.png)
-
+<div align=center><img width="800px;" src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/@SSHSAD$$VOKCAK9{}7LJA.png"/></div>
 
 
 ### 2．	代码部署
 **1.	复制controller 里面的目录到项目的**  
-![Alt text](https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/_0RC7Q36D8O@A9HCM@N9V1.png)
+ <div align=center><img width="800px;" src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/_0RC7Q36D8O@A9HCM@N9V1.png"/></div>
  
 **2.	复制service 里面的目录到项目的**  
-![Alt text](https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/HI_W7E4WW6[Y9KK2CB5.png)
+ <div align=center><img width="800px;" src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/HI_W7E4WW6[Y9KK2CB5.png"/></div>
  
 **3.	复制mybatis_mysql 里面的目录到项目的**  
-![Alt text](https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/VRYGURWPV`HY__FYXTW70.png)
-
+ <div align=center><img width="800px;" src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/VRYGURWPV`HY__FYXTW70.png"/></div>
  
 ### 3．	代码说明  
 &emsp;&emsp;整体思想：接口整体采用post请求，json作为请求参数；所有Controller继承基类并使用JSONObject对象接收请求json，经过PageData构造将JSONObject转成map，方便于xml文件进行数据获取；然后使用PageData对象的静态方法convertEntity(PageData request,Class<T> T)将PageData对象转成对应的实体类，再对实体类进行curl操作；  
- ![Alt text](https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/4H~BR6C7BCJUUWUCANDZ4`Y.png)
-
+ <div align=center><img width="800px;" src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/4H~BR6C7BCJUUWUCANDZ4`Y.png"/></div>
 
 #### 3.1.	Controller：
 **新增：**  
- ![Alt text](https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/GX6L7XM{WTL~XM4_$$}MFTB.png)
+ <div align=center><img width="800px;" src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/GX6L7XM{WTL~XM4_$$}MFTB.png"/></div>
 
 **修改：**  
  
-![Alt text](https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/5WAJSIKN37N3K{EKHIOD0.png)
-
+ <div align=center><img width="800px;" src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/5WAJSIKN37N3K{EKHIOD0.png"/></div>
 
 **详情：**  
-![Alt text](https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/TBSU[V`$5X]7OOOWR3B4]UV.png)
-
+ <div align=center><img width="800px;" src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/TBSU[V`$5X]7OOOWR3B4]UV.png"/></div>
  
 **删除：**  
-![Alt text](https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/CI`}[RI1BGG22~QJOB5SL94.png)
-
+ <div align=center><img width="800px;" src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/CI`}[RI1BGG22~QJOB5SL94.png"/></div>
 
  
 **列表：**  
-![Alt text](https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/JPC`7Z[@_PCX5}MI}@WB3A.png)
-
+ <div align=center><img width="800px;" src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/JPC`7Z[@_PCX5}MI}@WB3A.png"/></div>
  
 **批量删除：**  
-![Alt text](https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/~HQ188V8O`NK6F$MN}6T.png)
-
+ <div align=center><img width="800px;" src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/~HQ188V8O`NK6F$MN}6T.png"/></div>
  
 #### 3.2.	ServiceImpl：  
 **列表：**  
-![Alt text](https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/JZY69_H[~RYOYVM]Q6KRB.png)
+ <div align=center><img width="800px;" src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/JZY69_H[~RYOYVM]Q6KRB.png"/></div>
 
 #### 3.3.	Mapper.xml：  
- 
- ![Alt text](https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/`K[Y{@AUA5W@GDS2{`54Y.png)  
- ![Alt text](https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/5NAGGQ`30P30_U1VX2FO}E1.png)  
-
+  <div align=center><img width="800px;" src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/`K[Y{@AUA5W@GDS2{`54Y.png"/></div>  
+   <div align=center><img width="800px;" src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/5NAGGQ`30P30_U1VX2FO}E1.png"/></div>
 
  &emsp;&emsp;列表查询条件，所有字符串都转成模糊查询，根据不同业务需求，程序员需要对其进行更改。  
-![Alt text](https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/KFQ]8HSGYI6W1ET]MIK34.png)
-
+   <div align=center><img width="800px;" src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/KFQ]8HSGYI6W1ET]MIK34.png"/></div>
  
 **插入insert模板：**  
- ![Alt text](https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/G_]$05XIP{}A8NPYMT_49WT.png)
-
+   <div align=center><img width="800px;" src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/G_]$05XIP{}A8NPYMT_49WT.png"/></div>
 
 
 **删除delete模板：**  
-![Alt text](https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/SY4]K31783L_`ISD6@42BS.png)  
-
+   <div align=center><img width="800px;" src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/SY4]K31783L_`ISD6@42BS.png"/></div>
  
 **修改update模板：**根据需要加入useGeneratedKeys=true  keyProperty=”id” 用来返回主键id值。  
-![Alt text](https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/QDQMHXE7KNKXAYTGM5RRYN.png)
-
+   <div align=center><img width="800px;" src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/QDQMHXE7KNKXAYTGM5RRYN.png"/></div>
  
 **列表查询分页，排序：**  
-![Alt text](https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/@ZNQK}5ROSC_$~2I[F.png)
+   <div align=center><img width="800px;" src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/@ZNQK}5ROSC_$~2I[F.png"/></div>
+
 ### 4．	前端接口文档  
 
 &emsp;&emsp;见同级目录接口文档。
