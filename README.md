@@ -20,7 +20,7 @@
 **访问:**  
 &emsp;&emsp;测试环境：http://10.100.1.145:8088/scmd-generatetools/  
 &emsp;&emsp;线上环境：https://www.carecnn.com/scmd-generatetools/（暂不公开）  
-![Alt text](https://github.com/danielzhou888/zzx-generatecode/tree/master/src/test/java/com/img/_[{[6ZW{609NMXRSTGD74@V.png)
+![Alt text](https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/_[{[6ZW{609NMXRSTGD74@V.png)
 
 
  **输入表名**（支持多表，表之间使用英文逗号进行隔开）  
