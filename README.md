@@ -25,13 +25,13 @@
 &emsp;&emsp;线上环境：https://www.carecnn.com/scmd-generatetools/（暂不公开）  
 ![Alt text](https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/_[{[6ZW{609NMXRSTGD74@V.png)
 
-<div align=center><img style="width:auto;height:auto;max-width:70%;max-height:70%" src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/_[{[6ZW{609NMXRSTGD74@V.png"/></div>
+<div align=center><img width="800px;" src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/_[{[6ZW{609NMXRSTGD74@V.png"/></div>
 
  **输入表名**（支持多表，表之间使用英文逗号进行隔开）  
  &emsp;&emsp;如：sc_user,sc_customer,sc_appointment  
 **点击下载：**    生成code.zip  
 ![Alt text](https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/9YVJ$ROQ9K2G}V8Y`_NHV.png)
-<div align=center><img style="width:auto;height:auto;max-width:30%;max-height:30%" src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/9YVJ$ROQ9K2G}V8Y`_NHV.png"/></div>
+<div align=center><img width="800px;"  src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/9YVJ$ROQ9K2G}V8Y`_NHV.png"/></div>
 
 **目录结构：**   
 ![image](https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/@SSHSAD$$VOKCAK9{}7LJA.png)
