@@ -1,0 +1,10 @@
+#代码生成位置
+#code.location : /usr/local/code/
+code.location : D:\\code\\
+
+#项目根目录地址
+#project.location : /zzx/zzx-generatecode/target/classes
+project.location : E:\\zzx-generatecode\\target\\classes
+
+#数据库ip
+database.ip : 10.100.1.145

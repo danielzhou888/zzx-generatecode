@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.zzx.dao.ArticlelabelMapper">
+
+	<!-- 通用查询映射结果 -->
+	<resultMap id="BaseResultMap" type="com.zzx.entity.Articlelabel">
+		<id column="id" property="id" />
+		<result column="labelId" property="labelId" />
+		<result column="labelId" property="labelId" />
+		<result column="state" property="state" />
+		<result column="createtime" property="createtime" />
+		<result column="year" property="year" />
+		<result column="month" property="month" />
+		<result column="day" property="day" />
+		<result column="updatetime" property="updatetime" />
+		<result column="reserved" property="reserved" />
+	</resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        id, labelId AS labelId, labelId AS labelId, state, createtime, year, month, day, updatetime, reserved
+    </sql>
+
+</mapper>
