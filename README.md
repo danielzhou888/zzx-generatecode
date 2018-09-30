@@ -30,7 +30,7 @@
 
 
 **目录结构：**   
-![Alt text](./@SSHSAD$$VOKCAK9{}7LJA.png)
+![image](https://github.com/danielzhou888/zzx-generatecode/tree/master/src/test/java/com/img/@SSHSAD$$VOKCAK9{}7LJA.png)
 
 
 
