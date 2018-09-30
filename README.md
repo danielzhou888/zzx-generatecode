@@ -24,9 +24,6 @@
 &emsp;&emsp;测试环境：http://10.100.1.145:8088/scmd-generatetools/  
 &emsp;&emsp;线上环境：https://www.carecnn.com/scmd-generatetools/（暂不公开）  
 ![Alt text](https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/_[{[6ZW{609NMXRSTGD74@V.png)
-<img src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/_[{[6ZW{609NMXRSTGD74@V.png" style="width:400px;height:200px;"/>
-
-<img src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/_[{[6ZW{609NMXRSTGD74@V.png" width="150" height="150" alt="图片"/>
 
 <div align=center><img style="max-width:80%;" src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/_[{[6ZW{609NMXRSTGD74@V.png"/></div>
 
@@ -34,7 +31,7 @@
  &emsp;&emsp;如：sc_user,sc_customer,sc_appointment  
 **点击下载：**    生成code.zip  
 ![Alt text](https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/9YVJ$ROQ9K2G}V8Y`_NHV.png)
-
+<div align=center><img style="max-width:80%;" src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/9YVJ$ROQ9K2G}V8Y`_NHV.png"/></div>
 
 **目录结构：**   
 ![image](https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/@SSHSAD$$VOKCAK9{}7LJA.png)
