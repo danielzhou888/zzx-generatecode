@@ -31,7 +31,7 @@
  &emsp;&emsp;如：sc_user,sc_customer,sc_appointment  
 **点击下载：**    生成code.zip  
 ![Alt text](https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/9YVJ$ROQ9K2G}V8Y`_NHV.png)
-<div align=center><img style="max-width:80%;" src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/9YVJ$ROQ9K2G}V8Y`_NHV.png"/></div>
+<div align=center><img style="width:auto;height:auto;max-width:30%;max-height:30%" src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/9YVJ$ROQ9K2G}V8Y`_NHV.png"/></div>
 
 **目录结构：**   
 ![image](https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/@SSHSAD$$VOKCAK9{}7LJA.png)
