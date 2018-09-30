@@ -28,7 +28,7 @@
 
 <img src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/_[{[6ZW{609NMXRSTGD74@V.png" width="150" height="150" alt="图片"/>
 
-<div align=center><img width="1250" height="1250" src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/_[{[6ZW{609NMXRSTGD74@V.png"/></div>
+<div align=center><img width="450" height="450" src="https://github.com/danielzhou888/zzx-generatecode/blob/master/src/test/java/com/img/_[{[6ZW{609NMXRSTGD74@V.png"/></div>
 
  **输入表名**（支持多表，表之间使用英文逗号进行隔开）  
  &emsp;&emsp;如：sc_user,sc_customer,sc_appointment  
