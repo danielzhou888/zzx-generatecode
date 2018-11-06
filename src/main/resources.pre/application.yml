@@ -2,16 +2,16 @@
 spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://114.112.104.117:3306/zzx?useUnicode=true&characterEncoding=utf-8&serverTimezone=UTC&useSSL=false
-    username: root
-    password: SCMD_2017_scmd
+    url: jdbc:mysql://1111111:3306/zzx?useUnicode=true&characterEncoding=utf-8&serverTimezone=UTC&useSSL=false
+    username: 111111
+    password: 111111
   http:
     multipart:
       enabled: true
       max-file-size: 50Mb
       max-request-size: 100Mb
   redis:
-    host: 114.112.104.117
+    host: 111111
     port: 6379
 
 mybatis-plus:
@@ -36,23 +36,3 @@ logging:
 server:
   port: 30074
   context-path: /generatecode/
-
-#master:
-#  datasource:
-#    driver-class-name: com.mysql.jdbc.Driver
-#    url: jdbc:mysql://10.100.1.89:3306/union?useUnicode=true&characterEncoding=utf-8&serverTimezone=UTC&useSSL=false
-#    username: root
-#    password: scmd2017
-#  mybatis:
-#    typeAliasesPackage: com.union.entity
-#    mapper-locations: classpath:/mapper/*Mapper.xml
-#
-#slave:
-#  datasource:
-#      driver-class-name: com.mysql.jdbc.Driver
-#      url: jdbc:mysql://10.100.1.89:3306/zzx?useUnicode=true&characterEncoding=utf-8&serverTimezone=UTC&useSSL=false
-#      username: root
-#      password: scmd2017
-#  mybatis:
-#      typeAliasesPackage: com.union.entity
-#      mapper-locations: classpath:/mapper/*Mapper.xml
